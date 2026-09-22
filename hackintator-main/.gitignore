@@ -1,0 +1,7 @@
+.vscode/
+.vs/
+VisualStudio/
+*.d
+*.o
+output/*
+batch_results/

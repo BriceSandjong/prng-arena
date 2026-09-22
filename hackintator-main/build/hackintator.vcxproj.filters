@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\AlgoConfig.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\ArgReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\Comparator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\OutputReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\algorithms\Algorithm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\algorithms\Generator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\algorithms\Guesser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\definitions\Placeholders.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\interfaces\Interface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\interfaces\InterfaceConsole.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\interfaces\InterfaceSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\utils\Argument.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\utils\ArgumentParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\utils\FileHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\utils\Hardware.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\utils\HelpMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\utils\String.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\utils\Time.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\utils\config\ConfigReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\src\utils\config\QuotedConfigReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\adpau\Desktop\Cours\M1\Projet-PRNG\PRNG-Arena\hackintator-main\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4A669B41-94A7-3043-B5F0-883FE23C8E9E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

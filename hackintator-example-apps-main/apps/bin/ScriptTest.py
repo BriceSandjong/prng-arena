@@ -1,0 +1,5 @@
+print("d=0")
+print("1,2")
+print("a=0,1,2")
+print("a=0")
+print("a=1")
